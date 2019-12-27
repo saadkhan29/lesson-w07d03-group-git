@@ -1,7 +1,7 @@
 # Collaborating with git: branches, merging, and pull requests
 
 ## Objectives
-*After this lesson, students will be able to:*
+*After this lesson, developers will be able to:*
 
 - Create different branches in a git repo
 - Switch environments between branches
