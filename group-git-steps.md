@@ -1,3 +1,5 @@
+## LAB
+
 ### Team Leader
 1. Create an empty GitHub repo
 1. Locally, `mkdir project_folder_name` then `cd` && `git init` 
