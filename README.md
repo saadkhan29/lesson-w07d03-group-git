@@ -185,7 +185,7 @@ If we wanted to manually merge dev into master
 
 Making sure you're in master, the merge command will merge whatever branch you specify into the _current_ working branch.
 
-We're currently in `master` if we run `git merge dev` git will merge the code in dev, in this case, an empty file called weird1 into dev.
+We're currently in `master` if we run `git merge dev` git will merge the code in dev.
 
 ### When would you use git merge?
 
