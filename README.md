@@ -34,6 +34,8 @@ But git does _so_ much more.
 <br>
 
 
+## Self Study (30 mins)
+
 ## Processes and Branching
 
 From now on you will have at least two branches if not more in your projects.
