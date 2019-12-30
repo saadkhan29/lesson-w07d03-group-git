@@ -33,15 +33,6 @@ But git does _so_ much more.
 
 <br>
 
-## Setup
-
-Make sure you're *not* in your student repo in the terminal.
-
-1. Go to your GitHub and create a repo called `testing-<your-name>`
-2. `clone` that repo down locally, again making sure you're **NOT** in the student repo.
-3. `cd` into that new repo.
-
-<br>
 
 ## Processes and Branching
 
@@ -185,23 +176,6 @@ master
 m d A T
 ```
 
-<br>
-
-# We Do Lab
-
-1. touch a file called `weird1` in dev
-2. checkout to master $`git checkout master`
-  If you run `git status` and `ls`
-
-  You'll notice how `weird1` came with us. This is because we didn't commit the file or the change to dev.
-
-3. checkout back to dev  $`git checkout dev`
-4. `git add weird1` and `git commit -m "adding weird1"`
-5. checkout to master $`git checkout master`
-
-  If you run `git status` and `ls`
-
-  You'll notice how `weird1` isn't in our directory this time. It's currently saved and only accessible in the `dev` branch
 
 <br>
 
